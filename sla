@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" type="text/css" href="css/css.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento de ensino: Html</title>
+
+</head>
+<body>
+    <div>
+        <h1 class="atencao">-> Básico!</h1>
+
+    
+        <p>No html, as tags são feitas a partir de uma palavra chave e entre essas palavras
+        existem as "marcas de abertura e fechamento" que no caso são os sinais:
+
+      <br> 
+      -maior que ( / <strong>></strong>/)
+      <br> 
+      - menor que (/ <strong><</strong> /)
+
+        <hr>Por exemplo, temos a tag < html > < / html >
+
+       <br> a "/" é usada após a tag de abertura ser feita, a "/" é para fechar a tag e ela
+        executar sua função.
+
+       <br> ex.:
+
+        <strong>< p > | < / p ></strong>
+
+        <em>( a tag "p" serve para iniciar um paragrafo)</em>
+
+
+        <br><strong>perceba que após a tag de fechamento, tudo o que estiver fora dentro da tag "p"
+        não será divido em paragrafos.</strong>
+
+        </p>
+    
+    <p>
+        <li>As palavras-chave são palavras feitas para compor uma tag, entre elas se encontra:</li>
+        <li>- p -> usada apenas para montar paragráfos</li>
+        <li>- html -> usada para formar um cabeçario de um código (usado para iniciar um script e para informar que o arquivo sendo modificado
+        é de origem html5)</li>
+        <li>- img -> tag usada para indicar o endereço de alguma imagem </li>
+
+        <br>Suas tags de fechamento são:
+        <br>- /p
+        <br>- /html
+
+        <em> img não possuí uma tag de fechamento pelo fato de ser uma tag integrada em si própria.</em>
+    </p>     
+
+    <p>
+        <hr>
+        <strong><p>Curiosidade:</p></strong>
+
+        <em>Os códigos apresentados nesse documento são chamados de <em>tags</em> justamente ser uma "marca", ela é uma marcação do html 
+        que é chamado de <strong>HyperText Markup Language/ Linguagem de Marcação de Hipertexto</strong>; sabendo disso, podemos concluir que todas as tags
+        que são aprensentadas dentro do html ao programador são marcas de programação!
+        Assim construindo um site ou um simples jogo </em>
+    </p>
+
+    <a href="1.html" target="_blank"><button>Próximo conteúdo</button></a>
+
+        </div>
+    </body>
+</html>
